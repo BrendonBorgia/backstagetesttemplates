@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstagetesttemplates
+  annotations:
+    github.com/project-slug: BrendonBorgia/backstagetesttemplates
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Brendon Borgia
